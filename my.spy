@@ -1,13 +1,13 @@
 js_config:
 - Container:
   - []
-  Env: jd_daily_activityId
+  Env: jd_lzkj_daily_ids
   KeyWord:
   - - jd_daily_activityId
   Name: 【KR】LZ每日抢好礼通用活动
-  Script: KingRan_KR/jd_daily.js
+  Script: jd_lzkj_daily.js
   TimeOut: 0
-  Wait: 2
+  Wait: 1
 - Container:
   - []
   Env: jd_sevenDay_activityUrl
@@ -16,4 +16,4 @@ js_config:
   Name: 【KR】超级无线店铺签到-监控版
   Script: KingRan_KR/jd_sevenDayjk.js
   TimeOut: 0
-  Wait: 2
+  Wait: 1
