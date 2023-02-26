@@ -1,0 +1,10 @@
+js_config:
+- Container:
+  - []
+  Env: jd_daily_activityId
+  KeyWord:
+  - - jd_daily_activityId
+  Name: 【KR】LZ每日抢好礼通用活动
+  Script: KingRan_KR/jd_daily.js
+  TimeOut: 0
+  Wait: 0
