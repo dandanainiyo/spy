@@ -17,12 +17,3 @@ js_config:
   Script: KingRan_KR/jd_sevenDayjk.js
   TimeOut: 0
   Wait: 1
-- Container:
-  - []
-  Env: jd_wxUnPackingActivity_activityId
-  KeyWord:
-  - - jd_wxUnPackingActivity_activityId
-  Name: 【KR】LZ让福袋飞
-  Script: KingRan_KR/jd_wxUnPackingActivity.js
-  TimeOut: 0
-  Wait: 1
