@@ -8,7 +8,7 @@ js_config:
   Script: KingRan_KR/jd_daily.js
   TimeOut: 0
   Wait: 2
-  - Container:
+- Container:
   - []
   Env: jd_sevenDay_activityUrl
   KeyWord:
