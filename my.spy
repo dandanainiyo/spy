@@ -7,4 +7,4 @@ js_config:
   Name: 【KR】LZ每日抢好礼通用活动
   Script: KingRan_KR/jd_daily.js
   TimeOut: 0
-  Wait: 0
+  Wait: 2
