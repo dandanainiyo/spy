@@ -7,7 +7,7 @@ js_config:
   Name: 【KR】LZ每日抢好礼通用活动
   Script: KingRan_KR/jd_daily.js
   TimeOut: 0
-  Wait: 2
+  Wait: 1
   - Container:
   - []
   Env: jd_sevenDay_activityUrl
@@ -16,7 +16,7 @@ js_config:
   Name: 【KR】超级无线店铺签到-监控版
   Script: KingRan_KR/jd_sevenDayjk.js
   TimeOut: 0
-  Wait: 5
+  Wait: 1
 - Container:
   - []
   Env: jd_wxUnPackingActivity_activityId
@@ -25,4 +25,4 @@ js_config:
   Name: 【KR】LZ让福袋飞
   Script: KingRan_KR/jd_wxUnPackingActivity.js
   TimeOut: 0
-  Wait: 5
+  Wait: 1
