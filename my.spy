@@ -17,7 +17,7 @@ js_config:
   Script: KingRan_KR/jd_sevenDayjk.js
   TimeOut: 0
   Wait: 1
-  - Container:
+- Container:
   - []
   Env: jd_wxInviteOpenActId
   KeyWord:
