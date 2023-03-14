@@ -22,7 +22,7 @@ js_config:
   Env: jd_wxInviteOpenActId
   KeyWord:
   - - jd_wxInviteOpenActId
-  Name: 【toulu】LZ每日抢好礼通用活动
+  Name: 【toulu】无线邀请开卡
   Script: tulu/jd_wxInviteOpenAct.py
   TimeOut: 0
   Wait: 1
